@@ -20,6 +20,18 @@ const travels = [
     photo: 'https://gopened.com/wp-content/uploads/2018/02/street-view-new-york-gopened.jpg',
     distance:'6301 km',
     },
+    {
+    destination:"Dahab",
+    country: "Egypt",
+    photo: 'http://www.swissinn.net/dahab/dahab.jpg',
+    distance:'4634 km',
+    },
+    {
+        destination:"Merzougha",
+        country: "Morrocco",
+        photo: 'https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/28395/SITours/3-day-guided-tour-from-marrakech-merzouga-erg-chebbi-desert-and-ait-in-marrakech-302912.jpg',
+        distance:'2130 km',
+        },
 ];
 
 const Travels = () => (
